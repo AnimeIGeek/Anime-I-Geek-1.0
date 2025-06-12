@@ -1,23 +1,76 @@
-{data_animes.json
-}
+{
   "series": [
     {
       "seriesId": 0,
-      "title": "Nivelamento Solo",
+      "title": "Solo Leveling Temporada 1",
       "episode": "Ep. 1",
-      "duration": "23 minutos",
-      "image": "https://i.postimg.cc/VvWmV7vP/867bffab6d19057576e4cbd402c2829b1178b127f6e73b2c3c2c967aefa473f0.png",
-      "link": "https://fir3.net/SoloLevingEP1",
-      "synopsis": "Neste episódio, Sung Jin-Woo enfrenta o desafio mais mortal de sua vida após entrar em uma masmorra de rank duplo."
+      "duration": "24 min",
+      "image": "https://example.com/solo-leveling.jpg",
+      "link": "https://example.com/watch/solo-leveling-ep1"
     },
     {
       "seriesId": 1,
-      "title": "Novo Mundo",
+      "title": "Super Cube",
       "episode": "Ep. 1",
-      "duration": "23 minutos",
-      "image": "https://i.postimg.cc/52ZZb8HK/FB-IMG-1749686007306.jpg",
-      "link": "LINK DO EPISÓDIO",
-      "synopsis": "Resumo do episódio"
+      "duration": "24 min",
+      "image": "https://example.com/super-cube.jpg",
+      "link": "https://example.com/watch/super-cube-ep1"
+    },
+    {
+      "seriesId": 2,
+      "title": "Kijin Gentoushou",
+      "episode": "Ep. 1",
+      "duration": "24 min",
+      "image": "https://example.com/kijin-gentoushou.jpg",
+      "link": "https://example.com/watch/kijin-gentoushou-ep1"
+    },
+    {
+      "seriesId": 3,
+      "title": "Afro Samurai",
+      "episode": "Ep. 1",
+      "duration": "24 min",
+      "image": "https://example.com/afro-samurai.jpg",
+      "link": "https://example.com/watch/afro-samurai-ep1"
+    },
+    {
+      "seriesId": 4,
+      "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
+      "episode": "Ep. 1",
+      "duration": "24 min",
+      "image": "https://example.com/arifureta.jpg",
+      "link": "https://example.com/watch/arifureta-ep1"
+    },
+    {
+      "seriesId": 5,
+      "title": "Devil May Cry (2007)",
+      "episode": "Ep. 1",
+      "duration": "24 min",
+      "image": "https://example.com/devil-may-cry.jpg",
+      "link": "https://example.com/watch/devil-may-cry-ep1"
+    },
+    {
+      "seriesId": 6,
+      "title": "Blood-C",
+      "episode": "Ep. 1",
+      "duration": "24 min",
+      "image": "https://example.com/blood-c.jpg",
+      "link": "https://example.com/watch/blood-c-ep1"
+    },
+    {
+      "seriesId": 7,
+      "title": "Another",
+      "episode": "Ep. 1",
+      "duration": "24 min",
+      "image": "https://example.com/another.jpg",
+      "link": "https://example.com/watch/another-ep1"
+    }
+  ],
+  "movies": [
+    {
+      "title": "Mono",
+      "duration": "1h 30min",
+      "image": "https://example.com/mono.jpg",
+      "link": "https://example.com/watch/mono"
     }
   ]
-{
+}
