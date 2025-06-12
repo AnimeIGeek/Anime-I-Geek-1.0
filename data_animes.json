@@ -18,19 +18,3 @@
     }
   ]
 }
-{
-  "id": 1,
-  "titulo": "Nome do Novo Anime",
-  "temporada": "Temporada 1",
-  "sinopse": "Descrição curta sobre o anime.",
-  "episodios": [
-    {
-      "numero": "Ep. 1",
-      "titulo": "Nome do Episódio",
-      "duracao": "23 minutos",
-      "imagem": "https://i.postimg.cc/52ZZb8HK/FB-IMG-1749686097306.jpg",
-      "link": "LINK DO EPISÓDIO",
-      "sinopse": "Resumo do episódio"
-    }
-  ]
-}
